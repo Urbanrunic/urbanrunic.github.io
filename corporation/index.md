@@ -16,7 +16,7 @@ layout: default
             <div class="urbanrunic-facts">
                 <h3>Urbanrunic Corp</h3>
                 <ul>
-                    <li><b>Founded</b><br />2006</li>
+                    <li><b>Founded</b><br />2009</li>
                     <li><b>Founders</b><br />Tucker Joenz and Kristin Ward</li>
                     <li><b>Incorporation</b><br />2010</li>
                     <li><b>Headquarters</b><br/>270 Wisteria Road<br/>St. Augustine<br/>FL 32086</li>
