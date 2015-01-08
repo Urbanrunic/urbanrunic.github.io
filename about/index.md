@@ -6,13 +6,13 @@ layout: default
 
 <div class="container about">
     <div class="row">
-        <div class="col-xs-6">
+        <div class="col-md-6">
             <h2>Urbanrunic Corp Thanks You!</h2>
 
             <p>We look forward to hearing from you and how we can service your next web development or software engineering needs!</p>
         </div>
 
-        <div class="col-xs-6">
+        <div class="col-md-6">
             <form action="https://getsimpleform.com/messages?form_api_token=3286572dcabe085d06feff824504a49b" method="post">
               <!-- all your input fields here.... -->
               <div class="form-group">
