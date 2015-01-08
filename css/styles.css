@@ -165,6 +165,38 @@ footer {
     }
 }
 
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.col-xs-15 {
+    width: 20%;
+    float: left;
+}
+@media (min-width: 768px) {
+.col-sm-15 {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 992px) {
+    .col-md-15 {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 1200px) {
+    .col-lg-15 {
+        width: 20%;
+        float: left;
+    }
+}
+
 .carousel-control {
     width:  4%;
 }
@@ -179,7 +211,8 @@ footer {
     .carousel-inner .prev        { left: -100%; }
     .active > div { display:none; }
     .active > div:first-child { display:block; }
-    .social-icons { margin-bottom:20px; }
+    .social-icons { margin-bottom: 75px; }
+    .social-icons:last-child { margin-bottom: 0; }
 }
 @media (min-width: 767px) and (max-width: 992px ) {
     .carousel-inner .active.left { left: -50%; }
@@ -188,6 +221,8 @@ footer {
     .active > div { display:none; }
     .active > div:first-child { display:block; }
     .active > div:first-child + div { display:block; }
+    .social-icons { margin-bottom: 75px; }
+    .social-icons:last-child { margin-bottom: 0; }
 }
 @media (min-width: 992px ) {
     .carousel-inner .active.left { left: -16.7%; }
