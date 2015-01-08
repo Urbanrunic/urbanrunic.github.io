@@ -7,10 +7,7 @@ layout: default
     <div class="row">
         <div class="col-md-8">
             <h2>Urbanrunic Corporation Info</h2>
-
-            <p>Aliquam et quam non tellus lacinia adipiscing. Vivamus commodo, sem vitae pretium accumsan, arcu lacus dictum orci, sed ullamcorper risus leo ut ligula. Nulla luctus tristique laoreet. Donec placerat arcu a leo ullamcorper vitae dictum tortor rhoncus. In pulvinar facilisis libero, nec dignissim orci volutpat ac. Etiam eget nunc lacus.
-
-            Integer non porttitor nisl. Mauris elit dolor, pretium euismod vehicula id, facilisis a orci. Phasellus at magna quam, vel tincidunt quam. Sed a molestie purus. Mauris fringilla pretium lorem ut eleifend. Curabitur rhoncus, arcu eu blandit gravida, dolor tellus consequat tellus, at tincidunt risus felis id justo. Sed ac erat ultrices ipsum tempus suscipit id vitae nunc. Integer sit amet sapien quis lectus tempor pharetra ut at velit. Quisque semper, libero a pellentesque sollicitudin, massa libero euismod justo, porta molestie erat dui vel tellus. Ut lacus turpis, dapibus ut mollis id, aliquet in leo. Curabitur sollicitudin mauris sollicitudin dolor aliquam tristique. Ut congue sem vitae justo congue consequat. Integer mauris nisi, blandit in facilisis sed, lacinia quis lacus. Vestibulum sem enim, ullamcorper a porttitor vel, laoreet quis diam.</p>
+            <p>The company was founded after a few years of working with media, print and web design, in order to better the services that could be offered to clients. The passion for programming, design and multimedia drives us to be successful in our venture. At the start we were located in the heart of Maryland just outside Washington, D.C. but moved the company to sunny Florida in 2013 but still working mostly telecommute or traveling back and forth for meetings. With the technology today we don't have to be in one place to serve our clients, we are able to work with clients anywhere around the globe.</p>
         </div>
         <div class="col-md-4">
             <div class="urbanrunic-facts">
